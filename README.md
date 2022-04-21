@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jbakabaam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💁 JBL
+- 💻 Data Analyst
+- 📫 jbakabaam@gmail.com
+- 🇰🇷 Seoul, Republic of Korea 
+- 🇭🇰 🇹🇭 🇺🇸 🇨🇦 🇨🇳 🇫🇷 🇩🇪 🇦🇹 🇲🇲 🇨🇿 🇷🇺  
 
 <!---
 jbakabaam/jbakabaam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 😄 Hello! Good to see you!
-- 💻 Data Analyst/Engineer/Scientist
+- 💻 Software Engineer / Data Engineer
 - 🎓 Mathematical Finance (M.S.) / Data Management (B.A.)
 - 📫 jbakabaam@gmail.com
 
